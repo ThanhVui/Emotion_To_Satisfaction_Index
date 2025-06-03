@@ -9,7 +9,7 @@ model_path = os.path.join(model_dir, "best_model_resemotenet_80.pth")
 os.makedirs(model_dir, exist_ok=True)
 
 # URL tải trực tiếp từ Google Drive
-url = "https://drive.google.com/uc?export=download&id=1V7LWDfv7a1-7RtefTKCU5tKUayyZhyPI"
+url = "https://drive.google.com/file/d/1V7LWDfv7a1-7RtefTKCU5tKUayyZhyPI/view?usp=sharing"
 
 # Tải mô hình
 print("Downloading model from Google Drive...")
