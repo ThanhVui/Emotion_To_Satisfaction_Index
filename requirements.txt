@@ -6,4 +6,4 @@ opencv-python==4.11.0.86
 mediapipe==0.10.21
 pillow==11.2.1
 numpy==1.26.4
-gdown=5.2.0
+gdown
